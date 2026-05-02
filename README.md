@@ -1,4 +1,4 @@
-# AI Resume Analyzer 🚀
+# AI Resume Analyzer 
 
 An AI-powered Resume Analyzer and Job Matcher built using React.js, Node.js, Express, and AI APIs.  
 This application helps users compare their resume against a job description and receive an ATS-style match score, missing skills analysis, strengths, and improvement suggestions.
